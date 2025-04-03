@@ -15,7 +15,7 @@ int main()
     
     while(1)
     {
-        printf("Enter the optio 1)push 2)pop 3)display 4)exit\n");
+        printf("Enter the option 1)push 2)pop 3)display 4)exit\n");
         scanf(" %d",&op);
         
         switch(op)
